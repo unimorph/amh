@@ -1,5 +1,5 @@
 # Amharic (amh)
-Amharic
+
 Contains Amharic
 
 ## Data
