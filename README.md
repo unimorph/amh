@@ -1,0 +1,2 @@
+# amh
+Amharic
