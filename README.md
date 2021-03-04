@@ -2,9 +2,9 @@
 
 ## Contents
 
-*     `amh`: inflection tables for Amharic (ISO 639-3 `amh`)
-*     `amh.gloss`: English glosses for the lemmas in `amh`
-*     `README.md`: this file
+- `amh`: inflection tables for Amharic (ISO 639-3 `amh`)
+- `amh.gloss`: English glosses for the lemmas in `amh`
+- `README.md`: this file
 
 ## Data
 All data were generated using the Amharic morphological generator in 
